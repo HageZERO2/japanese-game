@@ -1,0 +1,299 @@
+# id|jp|kana|english|category
+tree|木|き|tree|nature
+road|道|みち|road|transport
+traffic_light|信号|しんごう|traffic light|transport
+vending_machine|自動販売機|じどうはんばいき|vending machine|technology
+drink|飲み物|のみもの|drink|drinks
+phone_booth|電話ボックス|でんわぼっくす|phone booth|technology
+bicycle|自転車|じてんしゃ|bicycle|transport
+postbox|ポスト|ぽすと|postbox|buildings
+street_lamp|街灯|がいとう|street lamp|buildings
+road_sign|標識|ひょうしき|road sign|transport
+house|家|いえ|house|buildings
+car|車|くるま|car|transport
+utility_pole|電柱|でんちゅう|utility pole|buildings
+crosswalk|横断歩道|おうだんほどう|crosswalk|transport
+bus_stop|バス停|ばすてい|bus stop|transport
+bus|バス|ばす|bus|transport
+bench|ベンチ|べんち|bench|furniture
+cat|猫|ねこ|cat|animals
+dog|犬|いぬ|dog|animals
+bird|鳥|とり|bird|animals
+signboard|看板|かんばん|signboard|buildings
+flowerpot|植木鉢|うえきばち|flowerpot|nature
+fire_hydrant|消火栓|しょうかせん|fire hydrant|buildings
+taxi|タクシー|たくしー|taxi|transport
+motorbike|バイク|ばいく|motorbike|transport
+police_box|交番|こうばん|police box|buildings
+door|ドア|どあ|door|household
+window|窓|まど|window|household
+building|建物|たてもの|building|buildings
+convenience_store|コンビニ|こんびに|convenience store|buildings
+shop|店|みせ|shop|buildings
+wait|待つ|まつ|to wait|activities
+walk|散歩|さんぽ|walk, stroll|activities
+shopping_street|商店街|しょうてんがい|shopping street|buildings
+greengrocer|八百屋|やおや|greengrocer|buildings
+vegetables|野菜|やさい|vegetables|food
+fruit|果物|くだもの|fruit|food
+tomato|トマト|とまと|tomato|food
+carrot|人参|にんじん|carrot|food
+watermelon|西瓜|すいか|watermelon|food
+fish|魚|さかな|fish|animals
+clothes|服|ふく|clothes|clothing
+tshirt|Tシャツ|てぃーしゃつ|T-shirt|clothing
+hat|帽子|ぼうし|hat|clothing
+skirt|スカート|すかーと|skirt|clothing
+shoes|靴|くつ|shoes|clothing
+jacket|上着|うわぎ|jacket|clothing
+toy|おもちゃ|おもちゃ|toy|household
+stuffed_toy|ぬいぐるみ|ぬいぐるみ|stuffed toy|household
+robot|ロボット|ろぼっと|robot|technology
+ball|ボール|ぼーる|ball|activities
+souvenir|お土産|おみやげ|souvenir|culture
+folding_fan|扇子|せんす|folding fan|culture
+maneki_neko|招き猫|まねきねこ|beckoning lucky cat|culture
+wagashi|和菓子|わがし|Japanese sweets|food
+dango|団子|だんご|dango (rice dumplings)|food
+daifuku|大福|だいふく|daifuku (filled mochi)|food
+taiyaki|たい焼き|たいやき|taiyaki (fish-shaped cake)|food
+food_stall|屋台|やたい|food stall|buildings
+takoyaki|たこ焼き|たこやき|takoyaki (octopus balls)|food
+paper_lantern|提灯|ちょうちん|paper lantern|culture
+flag|旗|はた|flag, banner|culture
+bookstore|本屋|ほんや|bookstore|buildings
+kiosk|売店|ばいてん|kiosk, stand|buildings
+money|お金|おかね|money|household
+umbrella|傘|かさ|umbrella|household
+bag|かばん|かばん|bag|clothing
+wallet|財布|さいふ|wallet|clothing
+glasses|眼鏡|めがね|glasses|clothing
+wristwatch|腕時計|うでどけい|wristwatch|clothing
+buy|買う|かう|to buy|activities
+torii|鳥居|とりい|torii gate|culture
+shrine|神社|じんじゃ|shrine|culture
+pagoda|塔|とう|tower, pagoda|buildings
+bell|鈴|すず|bell|culture
+offering_box|賽銭箱|さいせんばこ|offering box|culture
+omikuji|おみくじ|おみくじ|fortune slip|culture
+ema|絵馬|えま|wooden wish plaque|culture
+stone_lantern|灯籠|とうろう|stone lantern|culture
+stone|石|いし|stone|nature
+sand|砂|すな|sand|nature
+pond|池|いけ|pond|nature
+koi|鯉|こい|koi carp|animals
+bridge|橋|はし|bridge|buildings
+bamboo|竹|たけ|bamboo|nature
+sakura|桜|さくら|cherry blossom|nature
+flower|花|はな|flower|nature
+rock|岩|いわ|rock, boulder|nature
+komainu|狛犬|こまいぬ|guardian lion-dog|culture
+chozuya|手水舎|ちょうずや|purification fountain|culture
+ladle|柄杓|ひしゃく|ladle|culture
+kimono|着物|きもの|kimono|clothing
+pine|松|まつ|pine tree|nature
+leaf|葉っぱ|はっぱ|leaf|nature
+grass|草|くさ|grass|nature
+frog|蛙|かえる|frog|animals
+butterfly|蝶|ちょう|butterfly|animals
+moss|苔|こけ|moss|nature
+old_house|古民家|こみんか|old traditional house|buildings
+garden|庭|にわ|garden|nature
+river|川|かわ|river, stream|nature
+pray|祈る|いのる|to pray|activities
+cafe|カフェ|かふぇ|café|buildings
+ramen_shop|ラーメン屋|らーめんや|ramen shop|buildings
+sushi|寿司|すし|sushi|food
+sushi_shop|寿司屋|すしや|sushi restaurant|buildings
+restaurant|レストラン|れすとらん|restaurant|buildings
+kissaten|喫茶店|きっさてん|coffee shop|buildings
+cake_shop|ケーキ屋|けーきや|cake shop|buildings
+parasol|パラソル|ぱらそる|parasol|furniture
+neon|ネオン|ねおん|neon sign|technology
+crepe|クレープ|くれーぷ|crepe|food
+plant|植物|しょくぶつ|plant|nature
+table|テーブル|てーぶる|table|furniture
+chair|椅子|いす|chair|furniture
+cup|カップ|かっぷ|cup|household
+salmon|鮭|さけ|salmon|food
+tuna|鮪|まぐろ|tuna|food
+tempura|天ぷら|てんぷら|tempura|food
+park|公園|こうえん|park|buildings
+swing|ブランコ|ぶらんこ|swing|activities
+slide|滑り台|すべりだい|slide|activities
+sandbox|砂場|すなば|sandbox|activities
+seesaw|シーソー|しーそー|seesaw|activities
+mailbox|郵便受け|ゆうびんうけ|mailbox (at a house)|household
+bicycle_parking|駐輪場|ちゅうりんじょう|bicycle parking|transport
+laundry|洗濯物|せんたくもの|laundry|household
+wall|塀|へい|wall, fence|buildings
+gate|門|もん|gate|buildings
+fountain|噴水|ふんすい|fountain|buildings
+roof|屋根|やね|roof|buildings
+stairs|階段|かいだん|stairs|buildings
+apartment|アパート|あぱーと|apartment|buildings
+balloon|風船|ふうせん|balloon|activities
+play|遊ぶ|あそぶ|to play|activities
+run|走る|はしる|to run|activities
+shelf|棚|たな|shelf|furniture
+onigiri|おにぎり|おにぎり|rice ball|food
+bread|パン|ぱん|bread|food
+milk|牛乳|ぎゅうにゅう|milk|drinks
+juice|ジュース|じゅーす|juice|drinks
+green_tea|お茶|おちゃ|green tea|drinks
+water|水|みず|water|drinks
+refrigerator|冷蔵庫|れいぞうこ|refrigerator|household
+register|レジ|れじ|cash register|technology
+basket|かご|かご|basket|household
+candy|飴|あめ|candy|food
+chocolate|チョコレート|ちょこれーと|chocolate|food
+snacks|お菓子|おかし|snacks, sweets|food
+cup_noodles|カップラーメン|かっぷらーめん|cup noodles|food
+bento|弁当|べんとう|boxed lunch|food
+egg|卵|たまご|egg|food
+ice_cream|アイスクリーム|あいすくりーむ|ice cream|food
+magazine|雑誌|ざっし|magazine|stationery
+receipt|レシート|れしーと|receipt|household
+plastic_bag|袋|ふくろ|bag (plastic or paper)|household
+apple|りんご|りんご|apple|food
+banana|バナナ|ばなな|banana|food
+food|食べ物|たべもの|food|food
+shopping|買い物|かいもの|shopping|activities
+battery|電池|でんち|battery|technology
+toothbrush|歯ブラシ|はぶらし|toothbrush|household
+soap|石鹸|せっけん|soap|household
+microwave|電子レンジ|でんしれんじ|microwave oven|technology
+counter|カウンター|かうんたー|counter|furniture
+seat|席|せき|seat|furniture
+bowl|丼|どんぶり|bowl|household
+chopsticks|箸|はし|chopsticks|household
+renge|れんげ|れんげ|ceramic soup spoon|household
+menu|メニュー|めにゅー|menu|household
+restaurant_kitchen|厨房|ちゅうぼう|restaurant kitchen|buildings
+pot|鍋|なべ|pot|household
+ramen|ラーメン|らーめん|ramen|food
+noodles|麺|めん|noodles|food
+green_onion|ねぎ|ねぎ|green onion|food
+nori|海苔|のり|seaweed (nori)|food
+chashu|チャーシュー|ちゃーしゅー|braised pork (chashu)|food
+soy_sauce|醤油|しょうゆ|soy sauce|food
+salt|塩|しお|salt|food
+pepper|胡椒|こしょう|pepper|food
+glass|コップ|こっぷ|glass, tumbler|household
+gyoza|餃子|ぎょうざ|gyoza dumplings|food
+noren|暖簾|のれん|shop entrance curtain|culture
+kitchen_knife|包丁|ほうちょう|kitchen knife|household
+cutting_board|まな板|まないた|cutting board|household
+ticket_machine|券売機|けんばいき|ticket machine|technology
+cooking|料理|りょうり|cooking, cuisine|activities
+eat|食べる|たべる|to eat|activities
+delicious|美味しい|おいしい|delicious|food
+rice|ご飯|ごはん|cooked rice, meal|food
+tatami|畳|たたみ|tatami mat|furniture
+futon|布団|ふとん|futon|furniture
+low_table|ちゃぶ台|ちゃぶだい|low dining table|furniture
+fusuma|襖|ふすま|sliding door (fusuma)|furniture
+shoji|障子|しょうじ|paper screen (shoji)|furniture
+tv|テレビ|てれび|television|technology
+kitchen|台所|だいどころ|kitchen|household
+rice_cooker|炊飯器|すいはんき|rice cooker|technology
+kettle|やかん|やかん|kettle|household
+teacup|湯呑み|ゆのみ|teacup|household
+dishes|皿|さら|plate, dish|household
+sink|流し|ながし|sink|household
+pillow|枕|まくら|pillow|household
+cushion|座布団|ざぶとん|floor cushion|furniture
+light|電気|でんき|light, electricity|household
+clock|時計|とけい|clock|household
+closet|押し入れ|おしいれ|closet (futon closet)|furniture
+mirror|鏡|かがみ|mirror|household
+phone|電話|でんわ|telephone|technology
+key|鍵|かぎ|key|household
+calendar|カレンダー|かれんだー|calendar|household
+air_conditioner|エアコン|えあこん|air conditioner|technology
+electric_fan|扇風機|せんぷうき|electric fan|technology
+vase|花瓶|かびん|vase|household
+painting|絵|え|picture, painting|culture
+slippers|スリッパ|すりっぱ|slippers|clothing
+genkan|玄関|げんかん|entrance hall (genkan)|buildings
+trash_can|ゴミ箱|ごみばこ|trash can|household
+remote|リモコン|りもこん|remote control|technology
+computer|パソコン|ぱそこん|computer|technology
+game_console|ゲーム機|げーむき|game console|technology
+sleep|寝る|ねる|to sleep|activities
+cleaning|掃除|そうじ|cleaning|activities
+broom|ほうき|ほうき|broom|household
+towel|タオル|たおる|towel|household
+smartphone|スマホ|すまほ|smartphone|technology
+room|部屋|へや|room|buildings
+bonsai|盆栽|ぼんさい|bonsai|culture
+coffee_machine|コーヒーメーカー|こーひーめーかー|coffee maker|technology
+coffee|コーヒー|こーひー|coffee|drinks
+latte|カフェラテ|かふぇらて|café latte|drinks
+black_tea|紅茶|こうちゃ|black tea|drinks
+mug|マグカップ|まぐかっぷ|mug|household
+cake|ケーキ|けーき|cake|food
+strawberry|苺|いちご|strawberry|food
+parfait|パフェ|ぱふぇ|parfait|food
+pudding|プリン|ぷりん|custard pudding|food
+cookie|クッキー|くっきー|cookie|food
+sugar|砂糖|さとう|sugar|food
+spoon|スプーン|すぷーん|spoon|household
+fork|フォーク|ふぉーく|fork|household
+napkin|ナプキン|なぷきん|napkin|household
+blackboard|黒板|こくばん|blackboard|stationery
+sofa|ソファー|そふぁー|sofa|furniture
+piano|ピアノ|ぴあの|piano|culture
+lighting|照明|しょうめい|lighting, lamp|household
+sandwich|サンドイッチ|さんどいっち|sandwich|food
+pancake|パンケーキ|ぱんけーき|pancake|food
+matcha|抹茶|まっちゃ|matcha|drinks
+drink_verb|飲む|のむ|to drink|activities
+music|音楽|おんがく|music|activities
+bookshelf|本棚|ほんだな|bookshelf|furniture
+book|本|ほん|book|stationery
+manga|漫画|まんが|manga, comics|stationery
+textbook|教科書|きょうかしょ|textbook|stationery
+dictionary|辞書|じしょ|dictionary|stationery
+newspaper|新聞|しんぶん|newspaper|stationery
+notebook|ノート|のーと|notebook|stationery
+pen|ペン|ぺん|pen|stationery
+pencil|鉛筆|えんぴつ|pencil|stationery
+eraser|消しゴム|けしごむ|eraser|stationery
+desk|机|つくえ|desk|furniture
+map|地図|ちず|map|stationery
+picture_book|絵本|えほん|picture book|stationery
+novel|小説|しょうせつ|novel|stationery
+calculator|電卓|でんたく|calculator|technology
+bookmark|しおり|しおり|bookmark|stationery
+study|勉強|べんきょう|study|activities
+read|読む|よむ|to read|activities
+globe|地球儀|ちきゅうぎ|globe|stationery
+poster|ポスター|ぽすたー|poster|stationery
+scissors|はさみ|はさみ|scissors|stationery
+camera|カメラ|かめら|camera|technology
+photo|写真|しゃしん|photograph|activities
+shop_clerk|店員|てんいん|shop clerk|people
+chef|料理人|りょうりにん|cook, chef|people
+barista|バリスタ|ばりすた|barista|people
+grandfather|おじいさん|おじいさん|grandfather, old man|people
+grandmother|おばあさん|おばあさん|grandmother, old woman|people
+student|学生|がくせい|student|people
+tourist|観光客|かんこうきゃく|tourist|people
+shrine_maiden|巫女|みこ|shrine maiden|people
+child|子供|こども|child|people
+friend|友達|ともだち|friend|people
+store_manager|店長|てんちょう|store manager|people
+hello|こんにちは|こんにちは|hello, good afternoon|phrases
+good_morning|おはよう|おはよう|good morning (casual)|phrases
+good_evening|こんばんは|こんばんは|good evening|phrases
+thank_you|ありがとう|ありがとう|thank you|phrases
+excuse_me|すみません|すみません|excuse me, sorry|phrases
+how_much|いくらですか|いくらですか|how much is it?|phrases
+where_is|どこですか|どこですか|where is it?|phrases
+goodbye|さようなら|さようなら|goodbye|phrases
+nice_to_meet|はじめまして|はじめまして|nice to meet you|phrases
+please|お願いします|おねがいします|please|phrases
+welcome|いらっしゃいませ|いらっしゃいませ|welcome (to a shop)|phrases
+itadakimasu|いただきます|いただきます|let's eat (said before meals)|phrases
+gochisousama|ごちそうさまでした|ごちそうさまでした|thank you for the meal|phrases
