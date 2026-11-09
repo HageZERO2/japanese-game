@@ -1,0 +1,12 @@
+{
+  "name": "yume-no-machi",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "typecheck": "tsc -b",
+    "preview": "vite preview --host 0.0.0.0"
+  }
+}
